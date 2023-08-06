@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Healthcare</string>
+    <string name="password">Password</string>
+    <string name="_27_7_healthcare">27*7 Healthcare</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="login1">Login</string>
+    <string name="register_for_new_user">Register For new User</string>
+    <string name="_24_7_healthcare">24*7 HEALTHCARE</string>
+    <string name="order_details">ORDER DETAILS</string>
+    <string name="logout">LOGOUT</string>
+    <string name="health_articles">HEALTH ARTICLES</string>
+    <string name="find_doctor">FIND DOCTOR</string>
+    <string name="buy_medicine">BUY MEDICINE</string>
+    <string name="default_text">Default Text</string>
+    <string name="back">BACK</string>
+    <string name="textview">Textview</string>
+    <string name="_24_7_healthcares">24*7 HEALTHCARE</string>
+    <string name="_27_08_2023">27/08/2023</string>
+    <string name="hi_nhello">Hi \nHello</string>
+    <string name="lab_text_and_package">Lab Text and Package</string>
+    <string name="deliver_location_pune">Deliver Location : PUNE</string>
+    <string name="_24x7_healthcare">24X7 HealthCare</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="backs">Back</string>
+</resources>
